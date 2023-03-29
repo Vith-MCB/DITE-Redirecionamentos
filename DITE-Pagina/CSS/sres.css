@@ -13,29 +13,10 @@ body{
     width: 50px;
 }
 
-.card-img-top{
-    transition: 80ms linear;
-    filter: brightness(100%);
-}
-
-.card-img-top:hover{
-    transition: 80ms linear;
-    filter: brightness(85%);
-}
-
-
 .corpoSite{
     padding: 30px;
 }
 
-
-/*
-.color1 { #e8ddcb };
-.color2 { #cdb380 };
-.color3 { #036564 };
-.color4 { #033649 };
-.color5 { #031634 };
-*/
 
 body{
     color: #031634;
